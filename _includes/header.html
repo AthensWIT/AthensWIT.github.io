@@ -16,7 +16,7 @@
       <div class="trigger">
         {% for page in site.pages %}
           {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            <button type="button" class="btn btn-lg btn-info">{{ page.title}}</button>
           {% endif %}
         {% endfor %}
       </div>
@@ -25,3 +25,4 @@
   </div>
 
 </header>
+
