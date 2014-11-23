@@ -16,7 +16,7 @@
       <div class="trigger">
         {% for page in site.pages %}
           {% if page.title %}
-            <button type="button" class="btn btn-lg btn-info">{{ page.title}}</button>
+            <button type="button" class="btn btn-lg btn-info"><a href="{{ page.url }}">{{ page.title}}</a></button>
           {% endif %}
         {% endfor %}
       </div>
