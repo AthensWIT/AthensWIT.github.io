@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Athens Women in Tech is part of <a href="http://www.meetup.com/Greater-Athens-Area-Software-Developers/">Developers of Athens</a>, but we are about more than just development. We want to provide a connection point for all Athens women in the tech community, whether they are in development, sales, marketing, education, or other roles, as well as men that are interested in what we are doing.
