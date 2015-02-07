@@ -323,3 +323,7 @@ footer .footer-below {
 .posts li {
   list-style-type: none;
 }
+
+form {
+  color: #111;
+}
