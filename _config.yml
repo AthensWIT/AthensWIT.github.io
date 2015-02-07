@@ -1,11 +1,40 @@
 # Site settings
 title: Athens Women in Tech
 email: comm@athenswomenintech.com
-description: We are a new group, operating under Software Developers of Athens. We are dedicated to connecting women in the tech community of Athens, Ga.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "www.athenswomenintech.com" # the base hostname & protocol for your site
-twitter_username: AthensWIT
-github_username:  AthensWIT
+url: https://AthensWIT.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 6d6867 #80B3FF
+  secondary: b8b3b1 #FD6E8A
+  secondary-dark: db4b64 # Awesome blue 6A7991
+
+# Footer settings
+footer:
+  copyright: Athens Women in Tech
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/athenswit
+  - title: facebook
+    url: http://facebook.com
+  - title: github
+    url: http://github.com/AthensWIT
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 165 E Dougherty St
+  - line: Suite 100A
+  - line: Athens, GA 30601
+
+# Credits content
+credits: 'Thanks to <a href="http://lizshinndesign.com">Liz Shinn</a> for the logo and brand design.'
 
 # Build settings
 markdown: kramdown
+permalink: pretty
