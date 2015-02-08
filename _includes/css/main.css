@@ -327,3 +327,12 @@ footer .footer-below {
 form {
   color: #111;
 }
+
+.circular {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  -webkit-border-radius: 75px;
+  -moz-border-radius: 75px;
+  /*background: url(http://link-to-your/image.jpg) no-repeat;*/
+  }

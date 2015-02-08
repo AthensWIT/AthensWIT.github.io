@@ -38,3 +38,8 @@ credits: 'Thanks to <a href="http://lizshinndesign.com">Liz Shinn</a> for the lo
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
